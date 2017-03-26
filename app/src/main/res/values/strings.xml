@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Microphone</string>
+    <string name="title_activity_recording_history">RecordingHistory</string>
+</resources>
